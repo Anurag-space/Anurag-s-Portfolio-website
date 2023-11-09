@@ -1,6 +1,6 @@
 {
-  "name": "3dportfoliowebsite",
-  "private": true,
+  "name": "Anurag Portfolio website",
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
